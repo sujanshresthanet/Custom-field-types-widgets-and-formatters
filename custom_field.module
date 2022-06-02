@@ -1,0 +1,16 @@
+<?php
+/**
+ * @file
+ * Contains custom_fields.module.
+ */
+/**
+ * Implements hook_theme().
+ */
+function custom_fields_theme() {
+	return array(
+		'custom_fields_default' => array(
+			'variables' => array('source_description' => NULL, 'source_code' => NULL),
+			'template' => 'custom-fields-default',
+		),
+	);
+}

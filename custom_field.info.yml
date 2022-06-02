@@ -1,0 +1,11 @@
+name: Custom field types, widgets, and formatters
+type: module
+description: Provides custom field types, widgets, and formatters for drupal 9
+package: Custom Fields
+core: 8.x
+core_version_requirement: ^8 || ^9
+
+# Information added by Drupal.org packaging script on 2022-06-01
+version: '9.0.1'
+project: 'custom_fields'
+datestamp: 1654140056

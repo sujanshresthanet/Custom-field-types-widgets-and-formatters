@@ -1,0 +1,23 @@
+{
+  "name": "sujanshresthanet/Custom-field-types-widgets-and-formatters",
+  "description": "Custom field types, widgets, and formattersP",
+  "homepage": "http://www.sujanshrestha.net",
+  "license": "LGPL-3.0",
+  "keywords": [
+    "drupal",
+    "drupal 9",
+    "php",
+    "custom field",
+    "drupal module"
+  ],
+  "authors": [
+    {
+      "name": "Sujan Shrestha",
+      "role": "lead"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "prefer-stable": true
+}

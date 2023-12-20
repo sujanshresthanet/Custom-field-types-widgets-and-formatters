@@ -5,7 +5,7 @@
  * Contains \Drupal\custom_fields\Plugin\field\formatter\CustomFieldsDefaultFormatter.
  */
 
-namespace Drupal\custom_fields\Plugin\Field\FieldFormatter;
+namespace Drupal\custom_field\Plugin\Field\FieldFormatter;
 
 use Drupal\Core\Field\FormatterBase;
 use Drupal\Core\Field\FieldItemListInterface;

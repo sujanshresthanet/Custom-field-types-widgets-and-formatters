@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\custom_fields\Plugin\Field\FieldWidget\CustomFieldsDefaultWidget.
+ * Contains \Drupal\custom_field\Plugin\Field\FieldWidget\CustomFieldsDefaultWidget.
  */
 
-namespace Drupal\custom_fields\Plugin\Field\FieldWidget;
+namespace Drupal\custom_field\Plugin\Field\FieldWidget;
 
 use Drupal\Core\Field\FieldItemListInterface;
 use Drupal\Core\Field\WidgetBase;

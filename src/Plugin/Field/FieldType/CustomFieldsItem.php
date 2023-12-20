@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\custom_fields\Plugin\Field\FieldType\CustomFieldsItem.
+ * Contains \Drupal\custom_field\Plugin\Field\FieldType\CustomFieldsItem.
  */
 
-namespace Drupal\custom_fields\Plugin\Field\FieldType;
+namespace Drupal\custom_field\Plugin\Field\FieldType;
 
 use Drupal\Core\Field\FieldItemBase;
 use Drupal\Core\Field\FieldStorageDefinitionInterface;

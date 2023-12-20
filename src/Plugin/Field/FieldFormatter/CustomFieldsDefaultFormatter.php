@@ -2,7 +2,7 @@
 
 /**
  * @file
- * Contains \Drupal\custom_fields\Plugin\field\formatter\CustomFieldsDefaultFormatter.
+ * Contains \Drupal\custom_field\Plugin\field\formatter\CustomFieldsDefaultFormatter.
  */
 
 namespace Drupal\custom_field\Plugin\Field\FieldFormatter;
